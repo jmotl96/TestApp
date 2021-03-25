@@ -5,22 +5,50 @@
              x:Class="TestApp.MainPage">
 
     <StackLayout
-        BackgroundColor="Aqua">
+        BackgroundColor="Aqua"
+        x:Name="Layout"
+        >
         <!-- Place new controls here -->
         <Label Text="Welcome to Xamarin.Forms!" 
            HorizontalOptions="Center"/>
-        <Entry
-            Placeholder="Enter first name Name"
-            TextColor="Navy"
+        
+        <StackLayout
+            Orientation="Horizontal"
             >
-             
-        </Entry>
-        <Entry
-            Placeholder="Enter Last Name"></Entry>
+            <Entry
+                Placeholder="Enter first name Name"
+                TextColor="Navy"
+                x:Name="FirstName"
+            ></Entry>
+            <Entry
+                Placeholder="Middle "
+                MaxLength="1"
+                x:Name="Middle"
+                ></Entry>
+            <Entry
+                Placeholder="Enter Last Name"
+                TextColor="Blue"
+                x:Name="LastName"
+            ></Entry>
+        </StackLayout>
+        
         <Button
             Text="Enter"
-            BackgroundColor="Aquamarine"></Button>
+            BackgroundColor="Aquamarine"
+            x:Name="Submin"
+            Clicked="SubmitClick"
+            ></Button>
+        <Label
+            x:Name="Output"
+            ></Label>
         
+        <Button
+            x:Name="Backgroundc"
+            Clicked="ChangeBackGround"
+            BackgroundColor="Indigo"
+            TextColor="Honeydew"
+            Text="Aqua"
+            ></Button>
     </StackLayout>
 
 </ContentPage>
