@@ -1,0 +1,12 @@
+C:\Users\jmotl\RiderProjects\TestApp\TestApp\TestApp\bin\Debug\netstandard2.0\TestApp.deps.json
+C:\Users\jmotl\RiderProjects\TestApp\TestApp\TestApp\bin\Debug\netstandard2.0\TestApp.dll
+C:\Users\jmotl\RiderProjects\TestApp\TestApp\TestApp\bin\Debug\netstandard2.0\TestApp.pdb
+C:\Users\jmotl\RiderProjects\TestApp\TestApp\TestApp\obj\Debug\netstandard2.0\TestApp.csprojAssemblyReference.cache
+C:\Users\jmotl\RiderProjects\TestApp\TestApp\TestApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\jmotl\RiderProjects\TestApp\TestApp\TestApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\jmotl\RiderProjects\TestApp\TestApp\TestApp\obj\Debug\netstandard2.0\TestApp.AssemblyInfoInputs.cache
+C:\Users\jmotl\RiderProjects\TestApp\TestApp\TestApp\obj\Debug\netstandard2.0\TestApp.AssemblyInfo.cs
+C:\Users\jmotl\RiderProjects\TestApp\TestApp\TestApp\obj\Debug\netstandard2.0\TestApp.csproj.CoreCompileInputs.cache
+C:\Users\jmotl\RiderProjects\TestApp\TestApp\TestApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\jmotl\RiderProjects\TestApp\TestApp\TestApp\obj\Debug\netstandard2.0\TestApp.dll
+C:\Users\jmotl\RiderProjects\TestApp\TestApp\TestApp\obj\Debug\netstandard2.0\TestApp.pdb

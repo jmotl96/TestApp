@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PGHdJSX/exIwlEhMvhj2ZpDy5FcQLfZVKXYlrqwX6I5jGxtsrQxtnJVJGQVkO5I/GxbKTPAwibAB/LOAmRfhsw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jmotl\\RiderProjects\\TestApp\\TestApp\\TestApp.iOS\\TestApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jmotl\\.nuget\\packages\\xamarin.forms\\4.4.0.991640\\xamarin.forms.4.4.0.991640.nupkg.sha512"
+  ],
+  "logs": []
+}

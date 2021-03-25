@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "YMMv8fUAZe4Sky/7JbnXUMz6+4DIRtX91sL78e9Lbmm+jjgDPqny5CrNu+wRsrBPA3M7eJK4YtufTs8MUQP1jw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jmotl\\RiderProjects\\TestApp\\TestApp\\TestApp\\TestApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jmotl\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\jmotl\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\jmotl\\.nuget\\packages\\xamarin.forms\\4.4.0.991640\\xamarin.forms.4.4.0.991640.nupkg.sha512"
+  ],
+  "logs": []
+}
