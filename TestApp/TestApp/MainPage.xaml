@@ -4,11 +4,23 @@
              xmlns:local="clr-namespace:TestApp"
              x:Class="TestApp.MainPage">
 
-    <StackLayout>
+    <StackLayout
+        BackgroundColor="Aqua">
         <!-- Place new controls here -->
         <Label Text="Welcome to Xamarin.Forms!" 
-           HorizontalOptions="Center"
-           VerticalOptions="CenterAndExpand" />
+           HorizontalOptions="Center"/>
+        <Entry
+            Placeholder="Enter first name Name"
+            TextColor="Navy"
+            >
+             
+        </Entry>
+        <Entry
+            Placeholder="Enter Last Name"></Entry>
+        <Button
+            Text="Enter"
+            BackgroundColor="Aquamarine"></Button>
+        
     </StackLayout>
 
 </ContentPage>
